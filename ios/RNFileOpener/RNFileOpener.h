@@ -1,5 +1,4 @@
-#import "RCTBridgeModule.h"
-#import "RCTBridge.h"
+#import <React/RCTBridgeModule.h>
 
 @import UIKit;
 
